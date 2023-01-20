@@ -1,0 +1,87 @@
+html
+creating the board
+start off by doing a 4x4 board with option to expand later.
+create a table of 16 in array - will be done in JS
+title - "connect four"
+start game function
+game container div
+current Player turn div
+
+
+can we set up table like this?
+[
+  [null, null, null, null]
+  [null, null, null, null]
+  [null, null, null, null] 
+  ['red', null, null, 'yellow'] 
+  ]
+
+
+
+css
+white background
+blue board???
+red and yellow playing pieces
+player turn
+highlight the winners 4 pieces in a row?
+
+js
+const player 1
+const player 2
+
+function start game
+current turn
+
+function takeTurn
+
+function change currentPlayer
+if current turn === red
+player 1
+
+else player 2
+
+
+
+**********************************************
+event click
+
+win conditions????
+list of winning arrays
+
+how to make it so that only certain arrays are valid
+
+what happens in a draw
+
+replay option
+
+
+
+
+
+alert for winner/draw when game is completed
+window.confirm();
+if (playerOneWins("player 1 Wins!")) {
+
+}
+if (playerTwoWins("player 2 Wins!")){
+
+}
+else {
+    txt = "The game has ended in a draw..."
+}
+
+
+query selector board
+query selector player
+query selector play again (and restart???)
+
+event listener
+
+
+
+
+
+
+
+
+

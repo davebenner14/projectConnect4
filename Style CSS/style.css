@@ -1,0 +1,150 @@
+body {
+  background-color: #656161;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.game--multi--header {
+  position: relative;
+  height: 50px;
+  border-radius: 20px;
+  background-color: #999999;
+  padding-bottom: 6px;
+}
+
+.game--multi--header::after {
+  content: "";
+  height: 6px;
+  position: absolute;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  background: linear-gradient(
+    to right,
+    rgb(190, 24, 24) 0%,
+    rgb(190, 24, 24) 33%,
+    rgba(218, 242, 31) 33%,
+    rgba(218, 242, 31) 66%,
+    rgba(33, 132, 205, 1) 66%,
+    rgba(33, 132, 205, 1) 100%
+  );
+}
+
+.container {
+  border: 1px solid black;
+  display: flex;
+  align-content: center;
+  justify-content: center;
+  flex-wrap: wrap;
+  height: 400px;
+  width: 400px;
+  background: rgb(25, 7, 229);
+}
+
+#cell1,
+#cell2,
+#cell3,
+#cell4 {
+  width: 97px;
+  height: 97px;
+  border: 1px solid black;
+  border-radius: 50%;
+  background: white;
+}
+
+#cell5,
+#cell6,
+#cell7,
+#cell8 {
+  width: 97px;
+  height: 97px;
+  border: 1px solid black;
+  border-radius: 50%;
+  background: white;
+}
+#cell9,
+#cell10,
+#cell11,
+#cell12 {
+  width: 97px;
+  height: 97px;
+  border: 1px solid black;
+  border-radius: 50%;
+  background: white;
+}
+#cell13,
+#cell14,
+#cell15,
+#cell16 {
+  width: 97px;
+  height: 97px;
+  border: 1px solid black;
+  border-radius: 50%;
+  background: white;
+}
+
+.column:hover {
+  background-color: grey;
+  cursor: -webkit-grab;
+  cursor: grabbing;
+}
+.buttonCenter {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+h2 {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+@import url("https://fonts.googleapis.com/css2?family=Londrina+Shadow&display=swap");
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+body {
+  background-color: #f7f8f9;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  min-height: 100vh;
+}
+.waviy {
+  position: relative;
+  -webkit-box-reflect: below -20px linear-gradient(transparent, rgba(231, 12, 12, 0.2));
+  font-size: 50px;
+}
+.waviy span {
+  font-family: "Londrina Shadow", cursive;
+  position: relative;
+  display: inline-block;
+  color: rgb(7, 7, 7);
+  text-transform: uppercase;
+  animation: waviy 1s infinite;
+  animation-delay: calc(0.1s * var(--i));
+}
+@keyframes waviy {
+  0%,
+  40%,
+  100% {
+    transform: translateY(0);
+  }
+  20% {
+    transform: translateY(-20px);
+  }
+}
+
+#reset {
+  height: 70px;
+  width: 400px;
+  font-size: x-large;
+  background-color: rgb(184, 231, 158);
+}
+
+#reset:hover {
+  cursor: wait;
+}
