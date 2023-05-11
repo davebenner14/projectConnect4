@@ -67,4 +67,45 @@ There are two features to inform the user(s) whose turn it is.
 ## The Team
 
 <font size="4">
-[David Benner](https://github
+[David Benner](https://github.com/davebenner14)
+</font>
+
+About the Project
+<font size="4">
+This is my first project at the General Assembly software engineering boot camp where we are making a web game.
+The purpose of this project is to demonstrate and practice our newly learned skills from Unit 1: HTML, CSS, and JavaScript.
+
+Connect Four was built in one week.
+</font>
+
+Built With:
+<font size="4">
+HTML/CSS
+JavaScript
+</font>
+Icebox 🍦
+<font size="4">
+User
+
+- Allow users to play against AI
+- Expandable board - have users be able to pick the size of their board
+- Allow users to keep scores of games played
+  Code
+
+Dynamic code so that expanding the board can be more seamless
+"Restart button" to wipe data instead of refreshing the page
+</font>
+Original Plan
+<font size="4">
+Original wireframe images:
+</font>
+
+<p align="center">
+  <img src="https://git.generalassemb.ly/davebenner14/projectConnect4/blob/main/Assets_wirefram/mockup1.png" alt="Wire Frame 1">
+  <img src="https://git.generalassemb.ly/davebenner14/projectConnect4/blob/main/Assets_wirefram/mockup2.png" alt="Wire Frame 2">
+  <img src="https://git.generalassemb.ly/davebenner14/projectConnect4/blob/main/Assets_wirefram/mockup3.png" alt="Wire Frame 3">
+</p>
+<p align="center">
+Brought to you by:
+DAVID∞BENNER
+</p>
