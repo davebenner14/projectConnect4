@@ -61,13 +61,13 @@ There are two features to inform the user(s) whose turn it is.
 ## Getting Started
 
 <font size="4">
-[projectConnect4](https://projectConnect4.davidbenner1.repl.co)
+### [projectConnect4](https://projectConnect4.davidbenner1.repl.co)
 </font>
 
 ## The Team
 
 <font size="4">
-[David Benner](https://github.com/davebenner14)
+### 🧑‍💻 [David Benner](https://github.com/davebenner14)
 </font>
 
 About the Project
@@ -101,9 +101,9 @@ Original wireframe images:
 </font>
 
 <p align="center">
-  <img src="https://git.generalassemb.ly/davebenner14/projectConnect4/blob/main/Assets_wirefram/mockup1.png" alt="Wire Frame 1">
-  <img src="https://git.generalassemb.ly/davebenner14/projectConnect4/blob/main/Assets_wirefram/mockup2.png" alt="Wire Frame 2">
-  <img src="https://git.generalassemb.ly/davebenner14/projectConnect4/blob/main/Assets_wirefram/mockup3.png" alt="Wire Frame 3">
+  <img src="https://git.generalassemb.ly/davebenner14/projectConnect4/blob/main/Assets_wirefram/mockup1.png?raw=true" alt="Wire Frame 1">
+  <img src="https://git.generalassemb.ly/davebenner14/projectConnect4/blob/main/Assets_wirefram/mockup2.png?raw=true" alt="Wire Frame 2">
+  <img src="https://git.generalassemb.ly/davebenner14/projectConnect4/blob/main/Assets_wirefram/mockup3.png?raw=true" alt="Wire Frame 3">
 </p>
 <p align="center">
 Brought to you by:
