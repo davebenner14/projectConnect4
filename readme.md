@@ -1,6 +1,6 @@
 <p align="center">
 
-![Connect Four](https://git.generalassemb.ly/davebenner14/projectConnect4/blob/main/In_game_photos/readme.jpeg)
+![Connect Four](/Users/davidbenner/Documents/Connect Four/In_game_photos/readme.jpeg)
 
 # projectConnect4
 
@@ -17,7 +17,7 @@ The game was first sold under the Connect Four trademark by Milton Bradley in Fe
 
 <p align="center">
 
-![Picture of Game](https://git.generalassemb.ly/davebenner14/projectConnect4/blob/main/In_game_photos/screenshot1.png)
+![Picture of Game](/Users/davidbenner/Documents/Connect Four/In_game_photos/screenshot1.png)
 
 </p>
 
