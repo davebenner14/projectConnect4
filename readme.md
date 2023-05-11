@@ -95,16 +95,7 @@ User
 Dynamic code so that expanding the board can be more seamless
 "Restart button" to wipe data instead of refreshing the page
 </font>
-Original Plan
-<font size="4">
-Original wireframe images:
-</font>
 
-<p align="center">
-  <img src="https://git.generalassemb.ly/davebenner14/projectConnect4/blob/main/Assets_wirefram/mockup1.png?raw=true" alt="Wire Frame 1">
-  <img src="https://git.generalassemb.ly/davebenner14/projectConnect4/blob/main/Assets_wirefram/mockup2.png?raw=true" alt="Wire Frame 2">
-  <img src="https://git.generalassemb.ly/davebenner14/projectConnect4/blob/main/Assets_wirefram/mockup3.png?raw=true" alt="Wire Frame 3">
-</p>
 <p align="center">
 Brought to you by:
 DAVID∞BENNER
