@@ -60,15 +60,11 @@ There are two features to inform the user(s) whose turn it is.
 
 ## Getting Started
 
-<font size="4">
-### [projectConnect4](https://projectConnect4.davidbenner1.repl.co)
-</font>
+[projectConnect4](https://projectConnect4.davidbenner1.repl.co)
 
 ## The Team
 
-<font size="4">
-### 🧑‍💻 [David Benner](https://github.com/davebenner14)
-</font>
+[David Benner](https://github.com/davebenner14)
 
 About the Project
 <font size="4">
