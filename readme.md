@@ -1,6 +1,6 @@
 <p align="center">
 
-![Connect Four](/Users/davidbenner/Documents/Connect Four/In_game_photos/readme.jpeg)
+![Connect Four](https://github.com/davebenner14/projectConnect4/blob/main/In_game_photos/readme.jpeg?raw=true)
 
 # projectConnect4
 
